@@ -1,0 +1,222 @@
+HTML
+<!DOCTYPE HTML>
+<html lanng="en">
+    <head>
+        <meta charset= "utf-8">
+        <meta name="viewpoint" content="width=device-width,"intinal-scale=1">
+        <title>Damaka motorcare garage | expert auto repair & sevice</title>
+< style>
+:root{
+    --primary:#d9381e;/*mechanic <red></red>
+--dark:#1a1a1a;
+--light:#f4f4f4;
+--gray:#666;
+}
+*}
+margine:0;
+padding;0;
+box-sizing:border-box;
+font-family: 'sugoe ui', Tamoma, geneva, verdana, sans-serif;
+}
+body{
+    backgroup- color:var(--light);
+    colour:var(--dark);
+    line-height:1.6;
+} 
+header{
+    background-colour:var(--dark)
+color:white;
+paddding:1rem5%;
+display:flex;
+align-items:central;
+position:sticky;
+top:o;
+z-index:1000;
+}
+.log{
+    front-size; 1.5rem;
+    front - weight:bold;
+    colour: var(--primary);
+}
+.log span{
+    colour:var(--light);
+}
+nav ul{
+    dislay:flex;
+    list-style:none; 
+    gap:2rem:
+} 
+nav a{
+    colour:white;
+    text-decoratvion:none;
+    transition:0.3s;
+}
+nav a :hover{
+    colour:var (--primary0);
+}
+.hero{
+    background:linear-gradient(rgba(0,0,0,0,7),rghba(0'0'0'0'7),rghba(0,0,0,o,7))url('
+    color:white;
+    text-alignt:center;
+    padding:8rem 1rem
+}
+.hero h1{
+    font-size:3rem;
+    margine-bottom:1 rem;
+    color:#ddd;
+}
+.btn{
+    background -colour:var(--primary);
+    colour:white;
+    padding:0.8rem 2rem;
+    text-decoration:none;
+    border-radius:5px;
+    font -weight:bold;
+    transition:background 0.3s;
+}
+.btn:hover{
+    background-colour:#b52d15;
+}
+section{
+    passing:5rem 10%;
+}
+.section-title{
+    text-align:center;
+    margin-bottom:3rem;
+}
+.selection-title h2{
+    font-size:2.5rem;
+    colour:var(--dark);
+}
+.service-grid{
+    \display:grid;
+    grid-template-columns:repeat(auto-fit, minmax(280px, 1fr));
+    gap:2rem;
+}
+.service-card {
+    backgroup:white;
+    padding:2rem;
+    border-radius:8px;
+    box-shadow:0 4px 6px rgba(0,0,0,0,1);
+    transition:transform 0.3s;
+}
+.service-card:hower{
+    transform:translaterY(-5px);
+}
+.service-card h3{
+    margin-bottom:1rem;
+    colour:var(--primary);
+}
+.about{
+    backgound-colour:white;
+    text-aligncrnter;
+    max-width:800px;
+    margine:4rem auto;
+    padding:3rem;
+    border-radious:8px;
+    box-shadow:0 4px 6px rgba(0,0,0,0,05);
+}
+footer{
+    background-colour: var(--dark);
+    colour:white;
+    text-align:center;
+    <padding:2rem>
+        margine:2rem;
+}
+@media (max-width:768px){
+    nav ul{
+        dislay:none;
+    }
+    .hero h1{
+        font-size:2rem;
+    }
+}
+}
+<|<style>
+    <|head>
+    <body>
+<!-- header& navition-->
+<header>
+    <div class="logo">Damaka<span>motorcare</span></div>
+    <nav>
+        <ul>
+            <li><a href="#home">home</a></li>
+            <li><a href="#services"->services</a></li>
+            <li><a href="about">about us </a></li>
+            </ul>
+            </nav>
+            </header>
+            <!--hero section-->
+            <section id="home"class="hero">
+                <h1>Reliable care for your vehicle</h1>
+                <p>Expert diognostics,routing maintenance,and professional auto repair
+                    <a>href="#contact" class="bts">book an appointment</a>
+                    </section>
+                    <!--section-->
+                    <section id="services">
+                        <h2>our sevice </h2>
+                        <p>we keep your car running smoothing and safely on the road.</p>
+                        </div>
+                        <div class="sevices - title">
+                            <h3>Engine diagonise</h3>
+                            <p> advanced computerized scanning to quickly identify and resolve
+                                </div>
+                                <div class="sevice-card"
+                                <h3>Routine maitenance</h3>
+                                <p>online change, fluid checks, filter replacement, and schedulated
+                                    </div>
+                                    <div class="service"-card>
+                                        <h3>brake & suspension</h3>
+                                        <p>comprehensive inspection, brake pad reprecement, and sus[pension
+                                            </div>
+                                            </div>
+                                            <selection>
+                                                <!--about selection-->
+                                                <selection id="about" class="about">
+                                                    <h2>about Damaka motocare garage, we prige ourselve on honest quality work
+                                                        </section>
+                                                        <!--contact section-->
+                                                        <section id="contact"-style=-colour: #e9ecef; text-aling:center">
+                                                            <div class="section-title">
+                                                                <h2>visit us today<h2>
+                                                                    <p>get in torch or bring your directly to our garage.</p>
+                                                                    </div>
+                                                                    <P><strong>phone:</strong>+25421468169
+                                                                        <p><strong>Email:<strong>damakamotocaregarage@gmail.com
+                                                                            <p><strong:<Hours<syrong>monday-satuday:7:00am-6:00pm</p>
+                                                                                </selection>
+                                                                                <!--footer-->
+                                                                                <footer>
+                                                                                    <p>&copy;2026 Damaka Motorcare Garage.All rights reserved.</P>
+                                                                                        </footer>
+                                                                                        </body>
+                                                                                        </html>
+                                                                                        
+                                                                                    
+                                                
+
+                        =
+        
+                        ->
+
+    }
+
+    </padding:2rem>
+
+
+
+
+
+
+]'
+
+    )
+
+
+    
+    
+
+}
+
+            
+    
